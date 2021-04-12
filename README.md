@@ -6,8 +6,8 @@ The images were generated from an original sample of HIPAA compliant and validat
 
 There are five classes in the dataset, each with 5,000 images, being:
 
--> Lung benign tissue
--> Lung adenocarcinoma
--> Lung squamous cell carcinoma
--> Colon adenocarcinoma
--> Colon benign tissue
+* Lung benign tissue
+* Lung adenocarcinoma
+* Lung squamous cell carcinoma
+* Colon adenocarcinoma
+* Colon benign tissue
